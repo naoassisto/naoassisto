@@ -65,7 +65,7 @@ naoassisto
 ## GitHub Stats
 
 
-|                                                                     My Stats                                                                     |
+<!-- |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=naoassisto&theme=react-dark&hide_border=true&area=true) |
 | ![My Github Stats](https://github-readme-stats.vercel.app/api?username=naoassisto&show_icons=true&theme=algolia)              | 
@@ -80,4 +80,4 @@ naoassisto
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 
-
+ -->
