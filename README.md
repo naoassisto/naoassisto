@@ -8,7 +8,8 @@ naoassisto
 
 
 ## Contribution Snake 
-![](https://github.com/naoassisto/naoassisto/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/joaoalca/joaoalca/raw/output/github-contribution-grid-snake.svg)
+
 ## My Tech Stack and Tools
 
 ### Programming Languages
